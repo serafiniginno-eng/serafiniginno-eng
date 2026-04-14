@@ -20,9 +20,8 @@ Estoy desarrollando un laboratorio de ciberseguridad utilizando **Infrastructure
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![Estadísticas de Ginno](https://github-readme-stats.vercel.app/api?username=serafiniginno-eng&show_icons=true&theme=tokyonight)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ### 📫 Contacto
 * **Localización:** Córdoba, Argentina 🇦🇷
