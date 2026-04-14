@@ -20,7 +20,6 @@ Estoy desarrollando un laboratorio de ciberseguridad utilizando **Infrastructure
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Mis Estadísticas
 ![Estadísticas de Ginno](https://github-readme-stats.vercel.app/api?username=serafiniginno-eng&show_icons=true&theme=tokyonight)
 
 ---
