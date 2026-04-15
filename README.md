@@ -21,7 +21,7 @@ Estoy desarrollando un laboratorio de ciberseguridad utilizando **Infrastructure
 </p>
 
 ###  Mis Estadísticas
-![Estadísticas de Ginno](https://github-readme-stats.vercel.app/api?username=serafiniginno-eng&show_icons=true&theme=tokyonight&hide_border=false)¡
+![Estadísticas de Ginno](https://github-readme-stats.vercel.app/api?username=serafiniginno-eng&show_icons=true&theme=tokyonight&hide_border=false)
 
 ---
 
