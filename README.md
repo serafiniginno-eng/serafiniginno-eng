@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ginno S. Serafini 
 
-## 🛡️ Estudiante de Ciberseguridad | Cloud Security Enthusiast
+## 🛡️ Estudiante en sistema |Especialista en  Ciberseguridad | Cloud Security Enthusiast
 
 Me apasiona la seguridad informática y la automatización de infraestructuras en la nube. Actualmente, estoy enfocado en profundizar mis conocimientos en **Azure** y **DevSecOps**, construyendo entornos seguros y resilientes.
 
