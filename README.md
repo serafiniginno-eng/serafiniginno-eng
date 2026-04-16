@@ -1,6 +1,6 @@
-# ¡Hola! Soy Ginno S. Serafini 
+# ¡Hola! Soy  Sebastian Serafini 
 
-## 🛡️ Estudiante de sistemas |Especialista en  Ciberseguridad | Cloud Security Enthusiast
+## 🛡️ Desarrollador con enfoque en Ciberseguridad | Cloud Security & DevSecOps Specialist | Infrastructure as Code | Experto en laboratorios Azure & Terraform
 
 Me apasiona la seguridad informática y la automatización de infraestructuras en la nube. Actualmente, estoy enfocado en profundizar mis conocimientos en **Azure** y **DevSecOps**, construyendo entornos seguros y resilientes.
 
